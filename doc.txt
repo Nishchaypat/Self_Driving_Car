@@ -1,0 +1,3 @@
+After training
+Get model from cluster and send it to jetson at the proojet home dir
+Get label.txt from cluster and send it to jetson at the projet home dir
