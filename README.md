@@ -1,12 +1,13 @@
 # Self_Driving_Car
-AI based self driving car that follows lanes and traffic signs.
+
+**AI based self driving car that follows lanes and traffic signs.**
 
 ![Working Scenario](IMG-7979.jpg)
 
 
 The self-driving small automobile in this project showcases a number of cutting-edge technology and programming languages. The vehicle has a number of functions, such as intelligent control systems, lane detection, and traffic sign recognition. A robust and adaptable autonomous car is produced by combining Python, C/C++, numerical libraries, and GPU acceleration. The vehicle is suitable for robotics, computer vision, and other AI-related applications because it is built for IoT integration.
 
-Features
+**Features**:
 
 Lane Detection and Following: To recognize and follow lane markers on the road, the small automobile makes use of computer vision algorithms written in Python and OpenCV. Within the lanes, it is capable of autonomous navigation.
 
@@ -40,7 +41,7 @@ Numerical Libraries: For doing sophisticated mathematical computations, librarie
 
 GPU: The vehicle makes use of GPU acceleration to process AI models more quickly.
 
-Usage
+**Usage**:
 
 Connect the little automobile to the necessary hardware, such as the GPUs, cameras, and sensors.
 
