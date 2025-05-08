@@ -4,7 +4,6 @@
 
 ![Working Scenario](IMG-7979.jpg)
 
-
 The self-driving small automobile in this project showcases a number of cutting-edge technology and programming languages. The vehicle has a number of functions, such as intelligent control systems, lane detection, and traffic sign recognition. A robust and adaptable autonomous car is produced by combining Python, C/C++, numerical libraries, and GPU acceleration. The vehicle is suitable for robotics, computer vision, and other AI-related applications because it is built for IoT integration.
 
 **Features**:
