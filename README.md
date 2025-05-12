@@ -44,7 +44,6 @@ GPU: The vehicle makes use of GPU acceleration to process AI models more quickly
 
 Connect the little automobile to the necessary hardware, such as the GPUs, cameras, and sensors.
 
-
 Starting the autonomous vehicle will reveal the video feed with lane detection and traffic sign recognition.
 
 The vehicle will drive itself, staying in its lane and responding to traffic signals.
