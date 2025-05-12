@@ -8,7 +8,6 @@ from sign_detection import SignDetection
 from lane_detection import LaneDetection
 from serial_car_control import SerialController
 
-
 def start_loop(
     camera,
     sign_detection: SignDetection,
